@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suthishgamer&label=Profile%20views&color=0e75b6&style=flat" alt="suthishgamer" /> </p>
 
-- 🔭 I make free GFX and VFX works. Contact me by my discord server. [discord server link](https://dsc.gg/spidyvfx)
+- 🔭 I make free GFX and VFX works. Contact me by my discord server. [My Discord Server Link](https://dsc.gg/spidyvfx)
 
 - 👨‍💻 My Website [https://spidy.live](https://spidy.live)
 
