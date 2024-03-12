@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suthishgamer&label=Profile%20views&color=0e75b6&style=flat" alt="suthishgamer" /> </p>
 
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/e7cr.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+
 - 🔭 I make free GFX and VFX works. Contact me by my discord server. [My Discord Server Link](https://dsc.gg/spidyvfx)
 
-- 👨‍💻 My Website [https://spidy.live](https://spidy.live)
+- 👨‍💻 My Website [https://spidyvfx.tech](https://spidyvfx.tech)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
